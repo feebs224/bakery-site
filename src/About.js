@@ -5,7 +5,7 @@ const About = () => {
   return (
     <div className="about">
       <div className="about-banner">
-        <img src={Dough} alt="banner" width="100%" />
+        <img src={Dough} alt="banner" width="800 px" height="700px" />
         <div className="text">
           <p id="title-text">ABOUT FIBI'S</p>
           <p id="desc">Founded in 2023</p>

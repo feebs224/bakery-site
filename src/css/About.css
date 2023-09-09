@@ -8,8 +8,6 @@
 }
 .about .about-banner img {
   width: 100%;
-  filter: blur(3px);
-  -webkit-filter: blur(3px);
   margin: -5px 0px -10px 0px;
 }
 .about .text {
