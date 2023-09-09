@@ -27,7 +27,7 @@ const Navbar = () => {
       <div id="nav-links" class="nav-links">
         {isDesktop ? (
           <div className="maxLinks">
-            <span id="logo-title">Smitty's Sweets</span>
+            <span id="logo-title">Fibi's Sweets</span>
             <NavLink to="/" activeClassName="active">
               Home
             </NavLink>
@@ -36,9 +36,6 @@ const Navbar = () => {
             </NavLink>
             <NavLink to="/shop" activeClassName="active">
               Shop
-            </NavLink>
-            <NavLink to="/contact" activeClassName="active">
-              Contact
             </NavLink>
           </div>
         ) : (

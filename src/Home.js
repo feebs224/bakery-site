@@ -37,7 +37,7 @@ const Home = () => {
 
             <div className="overlay">
               <NavLink to="/shop" activeClassName="active">
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+                <p>Discover Divine Cakes at Our Bakery!</p>
               </NavLink>
             </div>
           </div>
@@ -51,7 +51,7 @@ const Home = () => {
 
             <div className="overlay">
               <NavLink to="/shop" activeClassName="active">
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+                <p>Indulge in Pillows of Delight: Cream Puffs Await!"</p>
               </NavLink>
             </div>
           </div>
@@ -65,7 +65,7 @@ const Home = () => {
 
             <div className="overlay">
               <NavLink to="/shop" activeClassName="active">
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+                <p>Experience Cookie Heaven with Every Bite!</p>
               </NavLink>
             </div>
           </div>
@@ -79,7 +79,7 @@ const Home = () => {
 
             <div className="overlay">
               <NavLink to="/shop" activeClassName="active">
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+                <p>Sweeten Your Day with Our Irresistible Cupcakes!</p>
               </NavLink>
             </div>
           </div>
