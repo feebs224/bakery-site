@@ -15,7 +15,9 @@ const Home = () => {
           Try our <br />
           cupcakes
         </p>
-        <button>Order Now</button>
+        <NavLink to="/shop">
+          <button>Order Now</button>
+        </NavLink>
       </div>
       <div className="dots">
         <span class="dot" id="active-dot"></span>
